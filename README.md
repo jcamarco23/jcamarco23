@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcamarco23
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning on the odin project
+- 🌱 I’m currently learning with UDEMY!
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me ...
 
